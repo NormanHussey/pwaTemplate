@@ -1,0 +1,22 @@
+{
+    "name": "PWA Template",
+    "short_name": "PWA Template",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background-color": "#b22222",
+    "theme_color": "#b22222",
+    "description": "A PWA Template by Norman Hussey",
+    "icons": [
+        {
+            "src": "./assets/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
